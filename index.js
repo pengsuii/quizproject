@@ -55,175 +55,175 @@ const questions = [
     },
 
     {
-        question: "_____ is the hottest Continent on Earth ?",
-        optionA: "Oceania",
-        optionB: "Antarctica",
-        optionC: "Africa",
-        optionD: "North America",
+        question: "Berikut ini profesi yang membutuhkan kemampuan utama terkait Data Pipeline dan database adalah ?",
+        optionA: "Programmer",
+        optionB: "ML Engineer",
+        optionC: "Data Analys",
+        optionD: "Data Engineer",
         correctOption: "optionC"
     },
 
     {
-        question: "Which country is the largest in the world ?",
-        optionA: "Russia",
-        optionB: "Canada",
-        optionC: "Africa",
-        optionD: "Egypt",
+        question: "Data yang harus diberikan pada komputer disebut ?",
+        optionA: "Input",
+        optionB: "Output",
+        optionC: "Proses",
+        optionD: "Start",
         correctOption: "optionA"
     },
 
     {
-        question: "Which of these numbers is an odd number ?",
-        optionA: "Ten",
-        optionB: "Twelve",
-        optionC: "Eight",
-        optionD: "Eleven",
+        question: "Library atau package yang menyediakan berbagai fitur untuk keperluan pembuatan aplikasi berbasis Web adalah ?",
+        optionA: "html/template",
+        optionB: "fmt",
+        optionC: "encoding/json",
+        optionD: "net/http",
         correctOption: "optionD"
     },
 
     {
-        question: `"You Can't see me" is a popular saying by`,
-        optionA: "Eminem",
-        optionB: "Bill Gates",
-        optionC: "Chris Brown",
-        optionD: "John Cena",
+        question: "Proses dimana penafsiran suatu pesan dan menterjemahkan menjadi informasi yang berarti adalah pengertian dari",
+        optionA: "Translate",
+        optionB: "Message",
+        optionC: "Encode",
+        optionD: "Decode",
         correctOption: "optionD"
     },
 
     {
-        question: "Where is the world tallest building located ?",
-        optionA: "Africa",
-        optionB: "California",
-        optionC: "Dubai",
-        optionD: "Italy",
+        question: "Sebuah teknologi untuk memfasilitasi pertukaran informasi atau data antara dua atau lebih aplikasi perangkat lunak, yang biasanya digunakan dengan format data JSON adalah ?",
+        optionA: "Apache",
+        optionB: "Database",
+        optionC: "API",
+        optionD: "IIS",
         correctOption: "optionC"
     },
 
   
     {
-        question: "The longest river in the United Kingdom is ?",
-        optionA: "River Severn",
-        optionB: "River Mersey",
-        optionC: "River Trent",
-        optionD: "River Tweed",
+        question: "Berikut ini yang bukan merupakan format data adalah ?",
+        optionA: "JSML",
+        optionB: "XML",
+        optionC: "JSON",
+        optionD: "HTML",
         correctOption: "optionA"
     },
 
 
     {
-        question: "How many permanent teeth does a dog have ?",
-        optionA: "38",
-        optionB: "42",
-        optionC: "40",
-        optionD: "36",
+        question: "Pengirim mengkodean informasi yang akan disampaikan ke dalam simbol atau isyarat adalah pengertian dari ?",
+        optionA: "Decode",
+        optionB: "Encode",
+        optionC: "Translate",
+        optionD: "Message",
         correctOption: "optionB"
     },
 
     {
-        question: "Which national team won the football World cup in 2018 ?",
-        optionA: "England",
-        optionB: "Brazil",
-        optionC: "Germany",
-        optionD: "France",
+        question: "Bentuk umum dalam penulisan pernyataan if yang tepat adalah ?",
+        optionA: "if x>y;",
+        optionB: "if x-y",
+        optionC: "if then;",
+        optionD: "if(x>y)",
         correctOption: "optionD"
     },
 
     {
-        question: "Which US state was Donald Trump Born ?",
-        optionA: "New York",
-        optionB: "California",
-        optionC: "New Jersey",
-        optionD: "Los Angeles",
+        question: "Pernyataan yang berfungsi untuk menghentikan perulangan adalah ?",
+        optionA: "Break",
+        optionB: "Continue",
+        optionC: "Return 0",
+        optionD: "End",
         correctOption: "optionA"
     },
 
     {
-        question: "How man states does Nigeria have ?",
-        optionA: "24",
-        optionB: "30",
-        optionC: "36",
-        optionD: "37",
+        question: "Contoh penulisan pemberian nama variabel ialah ?",
+        optionA: "nama!",
+        optionB: "nama npm",
+        optionC: "nama_mahasiswa",
+        optionD: "mahasiswa??",
         correctOption: "optionC"
     },
 
     {
-        question: "____ is the capital of Nigeria ?",
-        optionA: "Abuja",
-        optionB: "Lagos",
-        optionC: "Calabar",
-        optionD: "Kano",
+        question: "Simbol untuk menunjukan permulaan maupun akhir dari kegiatan adalah ?",
+        optionA: "Terminator",
+        optionB: "Display",
+        optionC: "Proses",
+        optionD: "Decision",
         correctOption: "optionA"
     },
 
     {
-        question: "Los Angeles is also known as ?",
-        optionA: "Angels City",
-        optionB: "Shining city",
-        optionC: "City of Angels",
-        optionD: "Lost Angels",
+        question: "Secara default indeks array dimulai dari  ?",
+        optionA: "10",
+        optionB: "1",
+        optionC: "0",
+        optionD: "11",
         correctOption: "optionC"
     },
 
     {
-        question: "What is the capital of Germany ?",
-        optionA: "Georgia",
-        optionB: "Missouri",
-        optionC: "Oklahoma",
-        optionD: "Berlin",
+        question: "Library atau package yang digunakan untuk menggunakan template HTML Web adalah ?",
+        optionA: "JSON",
+        optionB: "API",
+        optionC: "XML",
+        optionD: "html/template",
         correctOption: "optionD"
     },
 
     {
-        question: "How many sides does an hexagon have ?",
-        optionA: "Six",
-        optionB: "Sevene",
-        optionC: "Four",
-        optionD: "Five",
+        question: "Kumpulan dari obyek-obyek dengan karakteristik yang sama adalah pengertian ?",
+        optionA: "Class",
+        optionB: "Variable",
+        optionC: "Group",
+        optionD: "Double",
         correctOption: "optionA"
     },
 
     {
-        question: "How many planets are currently in the solar system ?",
-        optionA: "Eleven",
-        optionB: "Seven",
-        optionC: "Nine",
-        optionD: "Eight",
+        question: "Nilai atau elemen-elemen data yang dimiliki obyek dalam kelas obyek dan merupakan ciri dari sebuah obyek adalah ?",
+        optionA: "Obyek",
+        optionB: "Method",
+        optionC: "CLass",
+        optionD: "Atribut",
         correctOption: "optionD"
     },
 
     {
-        question: "Which Planet is the hottest ?",
-        optionA: "Jupitar",
-        optionB: "Mercury",
-        optionC: "Earth",
-        optionD: "Venus",
+        question: "Suatu kelas dapat diturunkan dari kelas yang lain, dimana atribut dari kelas semula dapat diwariskan ke kelas yang baru adalah prinsip ?",
+        optionA: "Enkapsulasi",
+        optionB: "Inheritance",
+        optionC: "Polymorphism",
+        optionD: "Properties",
         correctOption: "optionB"
     },
 
     {
-        question: "where is the smallest bone in human body located?",
-        optionA: "Toes",
-        optionB: "Ears",
-        optionC: "Fingers",
-        optionD: "Nose",
+        question: "Nama lain dari kata pewarisan dalam java adalah ?",
+        optionA: "Overriding",
+        optionB: "Inheritance",
+        optionC: "Overloading",
+        optionD: "Interface",
         correctOption: "optionB"
     },
 
     {
-        question: "How many hearts does an Octopus have ?",
-        optionA: "One",
-        optionB: "Two",
-        optionC: "Three",
-        optionD: "Four",
+        question: "Kesatuan antara data dan fungsi, disebut ?",
+        optionA: "Fungsi",
+        optionB: "Variabel",
+        optionC: "Objek",
+        optionD: "Method",
         correctOption: "optionC"
     },
 
     {
-        question: "How many teeth does an adult human have ?",
-        optionA: "28",
-        optionB: "30",
-        optionC: "32",
-        optionD: "36",
+        question: "Keyword pada java yang digunakan untuk mengaplikasikan konsep pewarisan adalah ?",
+        optionA: "This",
+        optionB: "Super",
+        optionC: "Extends",
+        optionD: "Static",
         correctOption: "optionC"
     }
 
