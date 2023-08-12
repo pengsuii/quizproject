@@ -1,56 +1,56 @@
 //inisiasi soal dalam quiz
 const questions = [
     {
-        question: "How many days makes a week ?",
-        optionA: "10 days",
-        optionB: "14 days",
-        optionC: "5 days",
-        optionD: "7 days",
+        question: "Suatu langkah untuk menyelesaikan sebuah masalah secara logis dan sistematis adalah ?",
+        optionA: "Pseudocode",
+        optionB: "Fungsi",
+        optionC: "Array",
+        optionD: "Algoritma",
         correctOption: "optionD"
     },
 
     {
-        question: "How many players are allowed on a soccer pitch ?",
-        optionA: "10 players",
-        optionB: "11 players",
-        optionC: "9 players",
-        optionD: "12 players",
+        question: "Tipe data apakah yang bisa digunakan jika int x = 9.90 ?",
+        optionA: "String",
+        optionB: "Float",
+        optionC: "Char",
+        optionD: "Date",
         correctOption: "optionB"
     },
 
     {
-        question: "Who was the first President of USA ?",
-        optionA: "Donald Trump",
-        optionB: "Barack Obama",
-        optionC: "Abraham Lincoln",
-        optionD: "George Washington",
+        question: "Bagian dari program yang memiliki peran sangat penting yang akan mempengaruhi setiap instruksi jalannya program adalah ?",
+        optionA: "Array",
+        optionB: "Looping",
+        optionC: "Variabel",
+        optionD: "Tipe Data",
         correctOption: "optionD"
     },
 
     {
-        question: "30 days has ______ ?",
-        optionA: "January",
-        optionB: "December",
-        optionC: "June",
-        optionD: "August",
+        question: "Tipe data yang menyatakan TRUE FALSE dalam sebuah program adalah ?",
+        optionA: "Char",
+        optionB: "Int",
+        optionC: "Boolean",
+        optionD: "Double",
         correctOption: "optionC"
     },
 
     {
-        question: "How manay hours can be found in a day ?",
-        optionA: "30 hours",
-        optionB: "38 hours",
-        optionC: "48 hours",
-        optionD: "24 hours",
+        question: "Sebuah perintah atau struktur yang terus mengulang agar mencapai suatu kondisi adalah ?",
+        optionA: "Boolean",
+        optionB: "Selection",
+        optionC: "Sequence",
+        optionD: "Looping",
         correctOption: "optionD"
     },
 
     {
-        question: "Which is the longest river in the world ?",
-        optionA: "River Nile",
-        optionB: "Long River",
-        optionC: "River Niger",
-        optionD: "Lake Chad",
+        question: "Yang bukan termasuk jenis operator yaitu ?",
+        optionA: "Variabel",
+        optionB: "Penjumlahan",
+        optionC: "Aritmatika",
+        optionD: "Logika",
         correctOption: "optionA"
     },
 
